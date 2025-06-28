@@ -1,0 +1,13 @@
+# Core libraries for data analysis and econometrics
+pandas==1.5.3
+numpy==1.23.5
+statsmodels==0.13.5
+scikit-learn==1.2.1
+
+# Libraries for data visualization
+matplotlib==3.6.2
+seaborn==0.12.2
+
+# Jupyter environment
+jupyterlab==3.5.0
+notebook==6.5.2
